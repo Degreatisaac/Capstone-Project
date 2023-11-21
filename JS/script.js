@@ -10,7 +10,9 @@ function saveAndNavigate() {
     localStorage.setItem("username", username);
 
     window.location.href = "page2.html";
+    
 }
+
 
 var selectedAvatar = null;
 
